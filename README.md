@@ -1,4 +1,4 @@
-# Password Audit Tool (Cybersecuirty Project)
+# Password Audit Tool (IT/Cybersecuirty Project)
 
 A IT/Cybersecurity CLI tool and Google Colab notebook for auditing passwords
 for strength, breach exposure, and dangerous structural vulnerabilities.
