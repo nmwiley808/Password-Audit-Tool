@@ -192,7 +192,16 @@ def bulk(filepath, no_hibp, output):
         ])
         writer.writeheader()
         for r in results:
-            writer.writerow({**r, "patterns": "; ".join(r["patterns"]), "suggestions": ""})
+            writer.writerow({
+                "password":     r["password"],
+                "score":        r["score"],
+                "label":        r["label"],
+                "crack_time":   r["crack_time"],
+                "breach_count": r["breach_count"],
+                "patterns":     "; ".join(r["patterns"]),
+                "risk_level":   r["risk_level"],
+                "warning":      r["warning"],
+            })
     console.print(f"  [bold green]✓ Report saved:[/bold green] [cyan]{output}[/cyan]")
 
 if __name__ == "__main__":
