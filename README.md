@@ -111,4 +111,4 @@ logged, or stored anywhere.
 
 ## Author
 
-Noah Wiley · [GitHub](https://github.com/nmwiley808)
+Noah Wiley · [LinkedIn](https://www.linkedin.com/in/noah-wiley-a20558410/)
