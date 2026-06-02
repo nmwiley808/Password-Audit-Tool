@@ -1,6 +1,6 @@
 # Password Audit Tool (Cybersecuirty Project)
 
-A cybersecurity CLI tool and Google Colab notebook for auditing passwords
+A IT/Cybersecurity CLI tool and Google Colab notebook for auditing passwords
 for strength, breach exposure, and dangerous structural vulnerabilities.
 
 Built with `zxcvbn`, `rich`, `requests`, `hashlib`, and `click`.
