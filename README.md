@@ -7,6 +7,11 @@ Built with `zxcvbn`, `rich`, `requests`, `hashlib`, and `click`.
 
 ---
 
+## Demo
+
+![audit demo](demo.png)
+
+
 ---
 
 ## Features
