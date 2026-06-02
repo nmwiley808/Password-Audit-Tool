@@ -85,9 +85,9 @@ may underweight:
 
 | Level | Condition |
 |---|---|
-| 🔴 HIGH | Breached in known data leaks OR strength score 0–1 |
-| 🟡 MEDIUM | Strength score 2 OR structural patterns detected |
-| 🟢 LOW | Score 3–4, no breaches, no patterns |
+| HIGH | Breached in known data leaks OR strength score 0–1 |
+| MEDIUM | Strength score 2 OR structural patterns detected |
+| LOW | Score 3–4, no breaches, no patterns |
 
 ---
 
