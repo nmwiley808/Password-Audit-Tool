@@ -1,4 +1,4 @@
-# Password Audit Tool
+# Password Audit Tool (Cybersecuirty Project)
 
 A cybersecurity CLI tool and Google Colab notebook for auditing passwords
 for strength, breach exposure, and dangerous structural vulnerabilities.
@@ -6,10 +6,6 @@ for strength, breach exposure, and dangerous structural vulnerabilities.
 Built with `zxcvbn`, `rich`, `requests`, `hashlib`, and `click`.
 
 ---
-
-## Demo
-
-![audit demo](demo.png)
 
 ---
 
@@ -49,3 +45,11 @@ python audit.py check "mypassword" --no-hibp
 ---
 
 ## Project Structure
+
+'''
+Password-Audit-Tool/
+├── audit.py                  # Standalone CLI tool (click)
+├── password_audit_tool.ipynb # Development notebook (Google Colab)
+├── passwords.txt             # Sample password list for testing
+└── README.md
+""
